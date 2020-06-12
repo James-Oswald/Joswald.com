@@ -1,0 +1,33 @@
+
+body
+{
+	background:url("/Images/indexback.jpg");
+	background-size:100% 100%;
+	text-align:center;
+	background-attachment:fixed;
+}
+
+#content
+{
+	margin-top:3%;
+	margin-left:15%;
+	margin-right:15%;
+	color:white;
+	border-radius:15px;
+	border:0px;
+}
+
+.cusbut
+{
+	background-color:RGB(80,80,80);
+	border:2px solid RGB(100,100,100);
+	border-radius:10px;
+	margin:1%;
+	display:inline-block;
+	text-align:center;
+}
+
+.cusbutp
+{
+	margin:1%;
+}

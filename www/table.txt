@@ -1,0 +1,27 @@
+﻿<table width="200" border="1" title="Angelina Gonzales vs Ryan Rhombus">
+	<tr>
+		<th>Issues</th>
+		<th> Angelina Gonzales</th>
+		<th> Ryan Rhombus</th>
+	</tr> 
+	<tr>
+		<td><div align="center">Political Party</div></td>
+		<td><div align="center">Democratic</div></td>
+		<td><div align="center">Republican</div></td>
+	</tr> 
+	<tr>
+		<td><div align="center">Elderly</div></td>
+		<td><div align=”center”>Has made it her priority to help and promote the lives of the elderly. </div></td>
+		<td><div align="center">Has no experience in helping the elderly. Has made no initiative to promote their lives</div></td>
+	</tr>
+	<tr>
+		<td><div align="center">Education</div></td>
+		<td><div align="center">Education is integral to a stable society and imperative to bright future. Gonzales believes fueling the next generation is worth the investment of education today.</div></td>
+		<td><div align="center">Rhombus doesn’t care about our children or grandchildren. He wants to watch our communities sink in quality and rise in unemployment</div></td>
+	</tr>
+	<tr> 
+		<td><div align="center">Personal life</div></td>
+		<td><div align="center">Gonzales regularly helps the community and gives her time to all people. She has been professional throughout HER career and has never done any scandalous acts.</div></td>
+		<td><div align="center">Rhombus does not have a clean track record. In college he grew Marijuana and made a huge profit illegally. Many students try new experiences in college such as marijuana or alcohol. However only those who have been illegally doing drugs for many years are the ones who sell and grow marijuana. He understands the law but does not respect it. For all we know, he most likely still engages in illicit activities. </div></td>
+	</tr>
+</table>

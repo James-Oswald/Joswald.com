@@ -1,0 +1,80 @@
+
+body
+{
+	background:url("/Images/chat.gif");
+	background-size:100% 100%;
+	text-align:center;
+	background-attachment:fixed;
+}
+
+#content
+{
+	margin-top:3%;
+	margin-left:15%;
+	margin-right:15%;
+	color:white;
+	border-radius:15px;
+	border:0px;
+	text-align:left;
+}
+
+.userimg
+{
+	margin:5px;
+	height:30%;
+	width:40%;
+	border-radius:15px;
+	border:2px solid white;
+}
+
+
+.adminpic
+{
+	display:inline-block;
+	margin-left:2%;
+}
+
+.left
+{
+	margin-bottom: 2%;
+	margin-top: 2%;
+	display:inline-block;
+}
+
+.msg
+{
+	margin-left:2%;
+	margin-bottom: 2%;
+}
+
+.admin
+{
+	border:2px solid cyan;
+	color:cyan;
+	border-radius:25px;
+	margin:2%;
+}
+
+.mod
+{
+	border:2px solid lime;
+	color:lime;
+	border-radius:25px;
+	margin:2%;
+}
+
+.meme
+{
+	border:2px solid red;
+	color:red;
+	border-radius:25px;
+	margin:2%;
+}
+
+.user
+{
+	border:2px solid white;
+	color:white;
+	border-radius:25px;
+	margin:2%;
+}

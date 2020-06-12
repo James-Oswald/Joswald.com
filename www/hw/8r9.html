@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html>
+	<head></head>
+	<body>
+		<xmp>
+			#include<iostream>
+			#include<string>
+
+			using namespace std;
+
+			string rev(string a)
+			{
+				string rv = "";
+				for (int i = a.length() - 1; i > -1; i--)
+				{
+					rv += a[i];
+				}
+				return rv;
+			}
+
+			void main()
+			{
+				string a = "apples";
+				cout<<a<<endl;
+				cout<<rev(a)<<endl;
+			}
+		</xmp>
+		<img src="8r9.png">
+	</body>
+</html>

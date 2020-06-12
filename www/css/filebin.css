@@ -1,0 +1,64 @@
+body
+{
+	background:url("/Images/filebin.gif");
+	background-size:100% 100%;
+	text-align:center;
+	background-attachment:fixed;
+}
+
+#content
+{
+	margin-top:3%;
+	margin-left:15%;
+	margin-right:15%;
+	color:white;
+	border-radius:15px;
+	border:0px;
+	text-align:center;
+}
+
+form
+{
+	text-align:left;
+}
+
+table
+{
+	width:100%;
+}
+
+th
+{
+	font-weight:bold;
+}
+
+table,th,tr,td
+{
+	border: 1px solid white;
+}
+
+a
+{
+	color:white;
+}
+
+.admin, .admin> td > a
+{
+	color:cyan;
+}
+
+.safe, .safe > td > a
+{
+	color:lime;
+}
+
+.safe > td
+{
+	border:1px solid lime;
+}
+
+.admin > td
+{
+	border:1px solid cyan;
+}
+

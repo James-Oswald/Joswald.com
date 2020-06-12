@@ -1,0 +1,73 @@
+
+body, #main
+{
+	margin-top:0px;
+	margin-right:0px;
+	margin-bottom:0px;
+	margin-left:0px;
+}
+
+
+#title
+{
+	background-color:RGB(100,100,100);
+	height:5%;
+	width:100%;
+	text-align:left;
+}
+
+#title > a
+{
+	text-decoration: none;
+}
+
+#lex
+{
+	width:5%;
+	height:5%;
+	left:0px;
+}
+
+#name
+{
+	font-family:monospace;
+	font-size:40pt;
+	color:cyan;
+	margin:0px;
+}
+
+#navbar
+{
+	background-color:RGB(80,80,80);
+	height:5%;
+	width:100%;
+	text-align:left;
+	font-size:11pt;
+	font-family:Serif;
+}
+
+#navbar > a
+{
+	text-decoration: none;
+}
+
+.navbarbutton
+{
+	background-color:RGB(80,80,80);
+	color:RGB(255,255,255);
+	display:inline-block;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.navbarbutton:hover
+{
+	background-color:RGB(40,40,40);
+}
+
+.secret, .secret:hover
+{
+	color:RGB(80,80,80);
+	cursor:default;
+	background-color:RGB(80,80,80);
+}

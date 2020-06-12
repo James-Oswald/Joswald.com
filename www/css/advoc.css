@@ -1,0 +1,31 @@
+
+body
+{
+	background:url("/Images/advoc.jpg");
+	background-size:100% 100%;
+	text-align:center;
+	background-attachment:fixed;
+}
+
+#content
+{
+	width:60%;
+	color:white;
+	margin-left:20%;
+	margin-right:20%;
+}
+
+hr
+{
+	color:white;
+}
+
+li
+{
+	font-size:14pt;
+}
+
+.left
+{
+	text-align:left;
+}

@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html>
+	<head></head>
+	<body>
+		<xmp>
+			#include<iostream>
+			#include<vector>
+
+			using namespace std;
+
+			struct pegboard
+			{
+				pegboard(vector <int> &pegs);
+				vector <int> pegs;
+			};
+
+			pegboard::pegboard(vector <int> &pegs_)
+			:pegs(pegs_)
+			{
+
+			void main()
+			{
+				vector <int> pgs(3,7);
+				pegboard pegb(pgs);
+				for (int i = 0; i < pegb.pegs.size(); i++)
+				{
+					cout<<"Peg "<<i + 1<<" has a height of "<<pegb.pegs[i]<<"."<<endl;
+				}
+			}
+		</xmp>
+		<img src="8r18.png">
+	</body>
+</html>

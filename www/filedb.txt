@@ -1,0 +1,18 @@
+1|filebin/IMG_0022.JPG|JPG|Welcome|68.196.172.149|Welcome To The File Bin!
+2|filebin/IMG_0021.JPG|JPG|Safe file|68.196.172.149|Files With a green name are safe files, they are confirmed to be 100% safe for download.
+1|filebin/1458913265756.gif|gif|Administrator|68.196.172.149|Files with a blue name are posted by Jozwald, and are most of the time safe to download.
+0|filebin/string.cpp|cpp|User|68.196.172.149|all other files are white and should be downloaded at your own risk.
+2|filebin/1459616242008.jpg|jpg|MakeAmericaGr8Again|68.196.172.149|Make America Great Again
+2|filebin/snoop mom.jpg|jpg|snoop mom|74.89.155.220|mama snoop
+0|filebin/hereyong.h|h|Here Yong|68.196.172.149|This is a file for yong
+0|filebin/Emma Watson.jpg|jpg|Butts|70.34.80.124|Dog Pushing Other Dog
+0|filebin/colormenooah.png|png|Color Me Noah|100.37.115.124|(Coloring Book)
+0|filebin/englishp.exe|exe|Okonkwo Simulator|68.196.165.171|Here ya go zekai
+1|filebin/filemove.class|class|FileMover|68.196.165.171|A specialized file mover
+0|filebin/InternetBreak.zip|zip|Internet Break .zip|68.196.165.171|This is an un crxed chrome extention to kill peoples internet
+0|filebin/Rat.zip|zip|Rat.zip|68.196.165.171|Fun
+0|filebin/file14311.txt|txt|test.txt|109.163.234.8|test file plz ignore
+0|filebin/socat||socat.txt|46.101.98.208|socat
+1|filebin/ap-compscia-magpie-lab-student-guide.pdf|pdf|Case study|70.34.80.124|memes
+1|filebin/activity2.zip|zip|magpie|70.34.80.124|there is no description
+0|filebin/FullSizeR.jpg|jpg|MyCat|107.170.81.59|Click it and get cuteified
