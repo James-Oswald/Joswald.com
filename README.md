@@ -1,5 +1,5 @@
 # Jozwald.com
-My first personal website from 2016 when I was a Sophomore in high school! It was live online from May 2016 - Feb 2017
+My first personal website from 2016 when I was a Sophomore in high school! It was live online from March 2016 - Feb 2017
 
 ## Background
 While taking honors programming in 10th grade 2015, I decided to branch out and learn some new languages.
@@ -11,12 +11,21 @@ with HTML. Soon after I decided to learn even more PHP and challenged myself to 
 Over the course of a year I also upload various school projects and used it as a testing ground for various javascript applications
 some shown on the navbar and some hidden and only accessible by knowing the link.
 
+## Build
+If you have php installed you can see in the /.vscode/launch.json that I have it configured to start php's built in webserver then open in chrome, however you can host this code on any php enabled webserver and it should work. As you might be able to tell from the .htaccess file, the original server was Apache. 
+
 ## Disclaimer 
 
 It should be mentioned this site was open to the public for anonymous uploads and posts for 10 months. While I did my best to censor
 some of the most obscene things that were said by using mass search and replace functions before uploading this,
 It is important to remember that these were 1000s of posts by immature 10th grade boys, and I do not
 condone/endorse anything that has been uploaded on this site by its users.
+
+## Notes
+I know I left some passwords laying around in the PHP code, rookie mistake. However, none of them were serious passwords and
+were used for anything outside of this site. No need to notify me if you find them. 
+
+The 404 page is lost forever, I'm not sure why it wasn't in with the backup.  
 
 ## Some Screenshots and History
 
