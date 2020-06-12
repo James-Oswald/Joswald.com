@@ -1,5 +1,5 @@
 # Jozwald.com
-My first personal website from 2016 when I was a Sophomore in high school! It was live online from March 2016 - Feb 2017
+My first personal website from 2016 when I was a sophomore in high school! It was live online from March 2016 - Feb 2017
 
 ## Background
 While taking honors programming in 10th grade 2015, I decided to branch out and learn some new languages.
