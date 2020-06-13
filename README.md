@@ -19,7 +19,8 @@ If you have php installed you can see in the /.vscode/launch.json that I have it
 It should be mentioned this site was open to the public for anonymous uploads and posts for 10 months. While I did my best to censor
 some of the most obscene things that were said by using mass search and replace functions before uploading this,
 It is important to remember that these were 1000s of posts by immature 10th grade boys, and I do not
-condone/endorse anything that has been uploaded on this site by its users.
+condone/endorse anything that has been uploaded on this site by its users, and under no circumstances should you vist any weird
+looking links you find in the messages. 
 
 ## Notes
 I know I left some passwords laying around in the PHP code, rookie mistake. However, none of them were serious passwords and
@@ -50,10 +51,10 @@ messages archived are the few hundred left after I added the ability to post ima
 someone realized I didn't protect against HTML injection in the input field and proceeded to post:
 ```html
 <script>
-window.location.href = "http://pornhub.com";
+window.location.href = "http://beesbeesbees.com/";
 </script>
 ```
-Which redirected everyone who tried to visit the page to Pornhub. It was my first and a very valuable lesson in web security, and I
+Which redirected everyone who tried to visit the page to [BeesBeesBees.com](http://beesbeesbees.com/). It was my first and a very valuable lesson in web security, and I
 was quickly able to implement a patch.
 
 ### File Upload
