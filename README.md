@@ -44,7 +44,7 @@ my Honors CS class I took in 10th grade, Both are overly extensive and took 10+ 
 ### Chat
 ![Chat](https://github.com/James-Oswald/Jozwald.com/blob/master/screenshots/chat.png)
 The chat page was my first real PHP project and lesson in client server interfacing on dynamic websites. I took inspiration from
-[4chan's /a/ board](https://boards.4channel.org/a/) which I frequented throughout highschool.
+4chan's anime board which I frequented throughout highschool.
 This feature was undoubtedly a mistake in hindsight. Many many anonymous
 users, almost all of them being people from my highschool who passed around the link, posted 1000s of obscene messages. The current
 messages archived are the few hundred left after I added the ability to post images. At some point before the image update, 
@@ -60,7 +60,7 @@ was quickly able to implement a patch.
 ### File Upload
 ![File bin](https://github.com/James-Oswald/Jozwald.com/blob/master/screenshots/filebin.png)
 This was my second big PHP project, a place to anonymously upload and download files, taking inspiration from
-[4chan's /f/ board](https://boards.4chan.org/f/). I have no idea what's in the current file bin, I really don't want to know.
+4chan's flash board. I have no idea what's in the current file bin, I really don't want to know.
 
 ### Game of Life
 ![Game of Life](https://github.com/James-Oswald/Jozwald.com/blob/master/screenshots/game%20of%20life.png)
