@@ -4,7 +4,7 @@
 		<?php include 'mainhead.php';?>
 		<!--<link rel="stylesheet" type="text/css" href="/css/index.css"/>-->
 		<title> Jozwald.com </title>
-		<script src="three.js"></script>
+		<script src="lib/three.min.js"></script>
 		<script>
 			var prev = "follow";
 			
